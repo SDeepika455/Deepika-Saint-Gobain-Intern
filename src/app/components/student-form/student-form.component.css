@@ -1,0 +1,94 @@
+/* Center the form */
+.student-form {
+  max-width: 400px;
+  margin: 30px auto;
+  padding: 25px;
+  background: #f7f9fc;
+  border-radius: 16px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  font-family: 'Segoe UI', sans-serif;
+  animation: fadeIn 0.5s ease-in-out;
+}
+
+/* Form title */
+.form-title {
+  text-align: center;
+  font-size: 26px;
+  font-weight: 600;
+  color: #5e35b1;
+  margin-bottom: 10px;
+}
+
+/* Label and input container */
+.form-group {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+/* Labels */
+.form-group label {
+  font-size: 14px;
+  font-weight: bold;
+  color: #455a64;
+}
+
+/* Input fields */
+.form-input {
+  width: 90%;
+  padding: 10px 14px;
+  border: 2px solid #cfd8dc;
+  border-radius: 10px;
+  font-size: 16px;
+  background: #ffffff;
+  transition: all 0.3s;
+}
+
+.form-input:focus {
+  border-color: #00acc1;
+  outline: none;
+  box-shadow: 0 0 8px rgba(0, 172, 193, 0.3);
+}
+
+/* Submit button */
+.submit-btn {
+  width: 98%;
+  padding: 14px;
+  font-size: 16px;
+  font-weight: bold;
+  color: #fff;
+  background: linear-gradient(to right, #00acc1, #5e35b1);
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.submit-btn:hover {
+  background: linear-gradient(to right, #26c6da, #7e57c2);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 15px rgba(94, 53, 177, 0.4);
+}
+
+/* Responsive Design */
+@media (max-width: 480px) {
+  .student-form {
+    width: 90%;
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "P9xNTc03wPw=",
+  "success": true,
+  "projectFilePath": "C:\\NewProject\\Deepika\\angular-student-app - Copy\\backend\\backend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\D8152126\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.2\\microsoft.aspnetcore.openapi.9.0.2.nupkg.sha512",
+    "C:\\Users\\D8152126\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

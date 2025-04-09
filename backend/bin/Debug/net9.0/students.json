@@ -1,0 +1,18 @@
+[
+  {
+    "Id": 3,
+    "Name": "Prince",
+    "Age": 22,
+    "Department": "opex",
+    "Email": "prince@gamil.com",
+    "Phone": "8796543543"
+  },
+  {
+    "Id": 4,
+    "Name": "deepika",
+    "Age": 56,
+    "Department": "AI",
+    "Email": "sde@gmail.com",
+    "Phone": "5657743444"
+  }
+]

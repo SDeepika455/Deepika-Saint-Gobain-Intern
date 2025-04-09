@@ -1,0 +1,38 @@
+<div class="container">
+  <!-- 🌟 Search Input -->
+  <input type="text" [(ngModel)]="searchQuery" (input)="searchStudents()" placeholder="Search Students..." class="search-in" />
+
+  <!-- 🌟 Buttons -->
+  <button (click)="exportToExcel()">📊 Download Excel</button>
+  <button (click)="exportToPDF()">📄 Download PDF</button>
+  <button (click)="toggleSort()">🔄 Sort: {{ sortOrder === 'asc' ? 'A-Z' : 'Z-A' }}</button>
+
+  <!-- 🌟 Student Data Table ✏ 🗑-->
+  <table>
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Age</th>
+        <th>Department</th>
+        <th>Email</th>
+        <th>Phone</th>
+        <th>Actions</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let student of filteredStudents">
+        <td>{{ student.id }}</td>
+        <td>{{ student.name }}</td>
+        <td>{{ student.age }}</td>
+        <td>{{ student.department }}</td>
+        <td>{{ student.email }}</td>
+        <td>{{ student.phone }}</td>
+        <td>
+          <button (click)="editStudent(student.id)">Edit</button>
+          <button (click)="deleteStudent(student.id)">Delete</button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>

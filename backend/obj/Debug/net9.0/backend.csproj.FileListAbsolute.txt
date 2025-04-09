@@ -1,0 +1,72 @@
+C:\NewProject\Deepika\angular-student-app\backend\bin\Debug\net9.0\appsettings.Development.json
+C:\NewProject\Deepika\angular-student-app\backend\bin\Debug\net9.0\appsettings.json
+C:\NewProject\Deepika\angular-student-app\backend\bin\Debug\net9.0\package-lock.json
+C:\NewProject\Deepika\angular-student-app\backend\bin\Debug\net9.0\package.json
+C:\NewProject\Deepika\angular-student-app\backend\bin\Debug\net9.0\students.json
+C:\NewProject\Deepika\angular-student-app\backend\bin\Debug\net9.0\backend.staticwebassets.endpoints.json
+C:\NewProject\Deepika\angular-student-app\backend\bin\Debug\net9.0\backend.exe
+C:\NewProject\Deepika\angular-student-app\backend\bin\Debug\net9.0\backend.deps.json
+C:\NewProject\Deepika\angular-student-app\backend\bin\Debug\net9.0\backend.runtimeconfig.json
+C:\NewProject\Deepika\angular-student-app\backend\bin\Debug\net9.0\backend.dll
+C:\NewProject\Deepika\angular-student-app\backend\bin\Debug\net9.0\backend.pdb
+C:\NewProject\Deepika\angular-student-app\backend\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\NewProject\Deepika\angular-student-app\backend\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\NewProject\Deepika\angular-student-app\backend\obj\Debug\net9.0\backend.csproj.AssemblyReference.cache
+C:\NewProject\Deepika\angular-student-app\backend\obj\Debug\net9.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\NewProject\Deepika\angular-student-app\backend\obj\Debug\net9.0\backend.AssemblyInfoInputs.cache
+C:\NewProject\Deepika\angular-student-app\backend\obj\Debug\net9.0\backend.AssemblyInfo.cs
+C:\NewProject\Deepika\angular-student-app\backend\obj\Debug\net9.0\backend.csproj.CoreCompileInputs.cache
+C:\NewProject\Deepika\angular-student-app\backend\obj\Debug\net9.0\backend.MvcApplicationPartsAssemblyInfo.cs
+C:\NewProject\Deepika\angular-student-app\backend\obj\Debug\net9.0\backend.MvcApplicationPartsAssemblyInfo.cache
+C:\NewProject\Deepika\angular-student-app\backend\obj\Debug\net9.0\scopedcss\bundle\backend.styles.css
+C:\NewProject\Deepika\angular-student-app\backend\obj\Debug\net9.0\staticwebassets.build.json
+C:\NewProject\Deepika\angular-student-app\backend\obj\Debug\net9.0\staticwebassets.development.json
+C:\NewProject\Deepika\angular-student-app\backend\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\NewProject\Deepika\angular-student-app\backend\obj\Debug\net9.0\staticwebassets\msbuild.backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\NewProject\Deepika\angular-student-app\backend\obj\Debug\net9.0\staticwebassets\msbuild.backend.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\NewProject\Deepika\angular-student-app\backend\obj\Debug\net9.0\staticwebassets\msbuild.build.backend.props
+C:\NewProject\Deepika\angular-student-app\backend\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.backend.props
+C:\NewProject\Deepika\angular-student-app\backend\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.backend.props
+C:\NewProject\Deepika\angular-student-app\backend\obj\Debug\net9.0\staticwebassets.pack.json
+C:\NewProject\Deepika\angular-student-app\backend\obj\Debug\net9.0\backend.csproj.Up2Date
+C:\NewProject\Deepika\angular-student-app\backend\obj\Debug\net9.0\backend.dll
+C:\NewProject\Deepika\angular-student-app\backend\obj\Debug\net9.0\refint\backend.dll
+C:\NewProject\Deepika\angular-student-app\backend\obj\Debug\net9.0\backend.pdb
+C:\NewProject\Deepika\angular-student-app\backend\obj\Debug\net9.0\backend.genruntimeconfig.cache
+C:\NewProject\Deepika\angular-student-app\backend\obj\Debug\net9.0\ref\backend.dll
+C:\NewProject\Deepika\angular-student-app - Copy\backend\bin\Debug\net9.0\appsettings.Development.json
+C:\NewProject\Deepika\angular-student-app - Copy\backend\bin\Debug\net9.0\appsettings.json
+C:\NewProject\Deepika\angular-student-app - Copy\backend\bin\Debug\net9.0\package-lock.json
+C:\NewProject\Deepika\angular-student-app - Copy\backend\bin\Debug\net9.0\package.json
+C:\NewProject\Deepika\angular-student-app - Copy\backend\bin\Debug\net9.0\backend.staticwebassets.endpoints.json
+C:\NewProject\Deepika\angular-student-app - Copy\backend\bin\Debug\net9.0\students.json
+C:\NewProject\Deepika\angular-student-app - Copy\backend\bin\Debug\net9.0\backend.exe
+C:\NewProject\Deepika\angular-student-app - Copy\backend\bin\Debug\net9.0\backend.deps.json
+C:\NewProject\Deepika\angular-student-app - Copy\backend\bin\Debug\net9.0\backend.runtimeconfig.json
+C:\NewProject\Deepika\angular-student-app - Copy\backend\bin\Debug\net9.0\backend.dll
+C:\NewProject\Deepika\angular-student-app - Copy\backend\bin\Debug\net9.0\backend.pdb
+C:\NewProject\Deepika\angular-student-app - Copy\backend\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\NewProject\Deepika\angular-student-app - Copy\backend\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\NewProject\Deepika\angular-student-app - Copy\backend\obj\Debug\net9.0\backend.csproj.AssemblyReference.cache
+C:\NewProject\Deepika\angular-student-app - Copy\backend\obj\Debug\net9.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\NewProject\Deepika\angular-student-app - Copy\backend\obj\Debug\net9.0\backend.AssemblyInfoInputs.cache
+C:\NewProject\Deepika\angular-student-app - Copy\backend\obj\Debug\net9.0\backend.AssemblyInfo.cs
+C:\NewProject\Deepika\angular-student-app - Copy\backend\obj\Debug\net9.0\backend.csproj.CoreCompileInputs.cache
+C:\NewProject\Deepika\angular-student-app - Copy\backend\obj\Debug\net9.0\backend.MvcApplicationPartsAssemblyInfo.cs
+C:\NewProject\Deepika\angular-student-app - Copy\backend\obj\Debug\net9.0\backend.MvcApplicationPartsAssemblyInfo.cache
+C:\NewProject\Deepika\angular-student-app - Copy\backend\obj\Debug\net9.0\scopedcss\bundle\backend.styles.css
+C:\NewProject\Deepika\angular-student-app - Copy\backend\obj\Debug\net9.0\staticwebassets.build.json
+C:\NewProject\Deepika\angular-student-app - Copy\backend\obj\Debug\net9.0\staticwebassets.development.json
+C:\NewProject\Deepika\angular-student-app - Copy\backend\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\NewProject\Deepika\angular-student-app - Copy\backend\obj\Debug\net9.0\staticwebassets\msbuild.backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\NewProject\Deepika\angular-student-app - Copy\backend\obj\Debug\net9.0\staticwebassets\msbuild.backend.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\NewProject\Deepika\angular-student-app - Copy\backend\obj\Debug\net9.0\staticwebassets\msbuild.build.backend.props
+C:\NewProject\Deepika\angular-student-app - Copy\backend\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.backend.props
+C:\NewProject\Deepika\angular-student-app - Copy\backend\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.backend.props
+C:\NewProject\Deepika\angular-student-app - Copy\backend\obj\Debug\net9.0\staticwebassets.pack.json
+C:\NewProject\Deepika\angular-student-app - Copy\backend\obj\Debug\net9.0\backend.csproj.Up2Date
+C:\NewProject\Deepika\angular-student-app - Copy\backend\obj\Debug\net9.0\backend.dll
+C:\NewProject\Deepika\angular-student-app - Copy\backend\obj\Debug\net9.0\refint\backend.dll
+C:\NewProject\Deepika\angular-student-app - Copy\backend\obj\Debug\net9.0\backend.pdb
+C:\NewProject\Deepika\angular-student-app - Copy\backend\obj\Debug\net9.0\backend.genruntimeconfig.cache
+C:\NewProject\Deepika\angular-student-app - Copy\backend\obj\Debug\net9.0\ref\backend.dll
